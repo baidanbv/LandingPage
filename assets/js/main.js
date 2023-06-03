@@ -128,16 +128,16 @@ const arrayLandingPages = [
   "assets/img/landing_page/landing-page7.jpg",
 ];
 const arrayWordpress = [
-  "assets/img/Wordpress/Wordpress1.jpg",
-  "assets/img/Wordpress/Wordpress2.jpg",
-  "assets/img/Wordpress/Wordpress3.jpg",
-  "assets/img/Wordpress/Wordpress4.jpg",
-  "assets/img/Wordpress/Wordpress5.jpg",
-  "assets/img/Wordpress/Wordpress6.jpg",
-  "assets/img/Wordpress/Wordpress7.jpg",
-  "assets/img/Wordpress/Wordpress8.jpg",
-  "assets/img/Wordpress/Wordpress9.jpg",
-  "assets/img/Wordpress/Wordpress10.jpg",
+  "assets/img/wordpress/wordpress1.jpg",
+  "assets/img/wordpress/wordpress2.jpg",
+  "assets/img/wordpress/wordpress3.jpg",
+  "assets/img/wordpress/wordpress4.jpg",
+  "assets/img/wordpress/wordpress5.jpg",
+  "assets/img/wordpress/wordpress6.jpg",
+  "assets/img/wordpress/wordpress7.jpg",
+  "assets/img/wordpress/wordpress8.jpg",
+  "assets/img/wordpress/wordpress9.jpg",
+  "assets/img/wordpress/wordpress10.jpg",
 ];
 
 const allArrays = [arrayGraphicDesign,arrayWordpress, arrayWebDesign, arrayLandingPages];
