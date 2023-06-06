@@ -1,3 +1,18 @@
+/******************Navigation************************** */
+const anchors = document.querySelectorAll('ul a')
+anchors.forEach((item) => {
+  item.addEventListener('click', (e) => {
+    if(item.getAttribute('href') !== '/') {
+      e.preventDefault();
+    const blockID = item.getAttribute('href')
+    document.querySelector('' + blockID).scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    })
+    }
+  })
+})
+
 /****************Our services*************** */
 
 const serviceTabs = document.querySelector(".tabs_title_design");
